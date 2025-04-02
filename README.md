@@ -32,7 +32,7 @@ Convertify is a comprehensive file conversion web application inspired by CloudC
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Rutherford/convertify.git
 cd convertify
 ```
 
